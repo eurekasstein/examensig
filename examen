@@ -1,0 +1,7 @@
+1. Crea una base de datos con extensión a postgis (2 puntos)
+2. Subir las capas de delegaciones y estaciones del metro y homogeneizar los SRID (2 puntos)
+3. Contar el numero de estaciones de metro por delegación (2 puntos)
+4. En la misma base de datos subir la red correspondiente a la CDMX y crear la extensión a pgrouting (1 punto)
+5. Calcular y dibujar una ruta entre dos estaciones de metro (1 punto)
+6. Agregar la capa de puntos, calcular el área de servicio a 10 minutos caminando de una estación de metro y 
+   contar el número de puntos dentro (2 puntos)
